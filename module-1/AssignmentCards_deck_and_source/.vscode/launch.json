@@ -1,0 +1,1 @@
+{ "version": "0.2.0", "configurations": [ { "type": "java", "name": "Launch CardApp", "request": "launch", "mainClass": "CardApp", "vmArgs": "--module-path /Users/Megan/javafx-sdk-21/lib --add-modules javafx.controls,javafx.fxml" } ] }
