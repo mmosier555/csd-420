@@ -1,0 +1,22 @@
+/* Style class: white fill, black stroke */
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+/* Extra class used to make the second circle stand out */
+.circleborder {
+    -fx-stroke-width: 3;
+    -fx-stroke-dash-array: 12 2 4 2;
+}
+
+/* IDs: red and green colors */
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: black;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: black;
+}
